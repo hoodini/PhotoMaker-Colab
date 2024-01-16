@@ -6,7 +6,7 @@
 <!-- ## <div align="center"><b>PhotoMaker</b></div> -->
 <div align="center">
   
-## PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding
+## PhotoMaker with a Google Colab notebook - modified by Yuval Avidani @hackit.co.il!!: Customizing Realistic Human Photos via Stacked ID Embedding
 [[Paper](https://huggingface.co/papers/2312.04461)] &emsp; [[Project Page](https://photo-maker.github.io)] &emsp; [[Model Card](https://huggingface.co/TencentARC/PhotoMaker)] <br>
 
 [[🤗 Demo (Realistic)](https://huggingface.co/spaces/TencentARC/PhotoMaker)] &emsp; [[🤗 Demo (Stylization)](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style)] <be>
